@@ -1,0 +1,36 @@
+.root {
+    -fx-font-family: "Open Sans", sans-serif;
+    -fx-background-color:  #F8F8F8;
+}
+
+.toolbar {
+    -fx-background-color: #800000;
+    -fx-padding: 10px;
+}
+
+.menu-button {
+    -fx-font-size: 14px;
+    -fx-padding: 10px 20px;
+    -fx-background-color: #F5F5DC;
+    -fx-text-fill: black;
+}
+
+.menu-button:hover {
+    -fx-background-color: #A9A9A9;
+}
+
+.main-menu-button {
+    -fx-font-size: 18px;
+    -fx-padding: 15px 30px;
+    -fx-background-color: #800000;
+    -fx-text-fill: white;
+}
+
+.main-menu-button:hover {
+    -fx-background-color: #A9A9A9;
+}
+
+.menu-info{
+	-fx-text-fill: black;
+	-fx-font-size: 11px;
+}
